@@ -78,7 +78,7 @@ You may want to save an additional copy in a folder other than the default one, 
 
 <br><br>
 
-## Download Brewer and Coloblind palettes
+## Download Brewer and colorblind palettes
 
 If you don't want to build your own palettes, you can also download .ase files and copy them into the Illustrator Swatches folder (/Applications/Adobe Illustrator CC 2018/Presets/en_US/Swatches).
 
