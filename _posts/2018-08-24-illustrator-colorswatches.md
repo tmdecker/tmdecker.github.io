@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Illustrator Color Swatches for Data Science
+title: Adobe Illustrator Color Swatches for Data Science
 author: Tim
 ---
 
