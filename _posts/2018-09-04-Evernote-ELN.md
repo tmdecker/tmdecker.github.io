@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evernote as an Electronic Lab Notebook
+title: Evernote as Electronic Lab Notebook
 author: Tim
 ---
 
