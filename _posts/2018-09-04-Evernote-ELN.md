@@ -75,7 +75,7 @@ Other useful shortcuts can be found on the [Evernote Keyboard Shortcuts Cheatshe
 
 ### 5. The Ideas Log - A special note
 
-Surely, it sometimes happens that you have a great idea you might want to follow up in the future but you never follow it up. The Ideas Log note will prevent that. Everytime you come up with a potential experiment, a possible new area of research or a business idea, simply drop it into the Ideas Log note. A great side effect will be, that you train your creativity be frequently writing down your ideas.
+Surely, it sometimes happens that you have a great idea you might want to follow up in the future but you forget it in almost the same instant. The Ideas Log note will prevent that. Everytime you come up with a potential experiment, a possible new area of research or a business idea, simply drop it into the Ideas Log note. A great side effect will be, that you exercise your creativity muscle be frequently writing down ideas.
 
 ### 6. Transfer written notes to Evernote
 
