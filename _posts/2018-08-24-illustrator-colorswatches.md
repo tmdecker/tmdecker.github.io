@@ -36,9 +36,9 @@ There are more predefined swatches in the Swatch libraries. Simple click the lib
 
 2. Save the file as .ai file in "/Applications/Adobe Illustrator CC 2018/Support Files/New Document Profiles/en_US/YouNewProfile.ai". *Access to this folder may be denied when saving directly from Illustrator. A workaround would be to save the file in any other location e.g. your Desktop and then drag&drop it to the desired folder.*
 
-3. In Illustrator open Preferences -> General and make sure "Use legacy File New interface" is checked.
+3. In Illustrator navigate to Preferences -> General and make sure "Use legacy File New interface" is checked.
 
-4. When you now open a new file, you can now select YourNewProfile from the dropdown menu.
+4. When you open a new file, you can now select YourNewProfile from the dropdown menu.
 
    <br><br>
 
